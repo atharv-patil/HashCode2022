@@ -1,4 +1,4 @@
-# Gooogle HashCode 2022
+# Google HashCode 2022
 This was my first experience of Google Hashcode. 
 
 Team Name: LowData 
