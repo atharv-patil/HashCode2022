@@ -18,8 +18,6 @@ for i in range(k):
         skill, lvl = map(str, input().split())
         e[len(e)-1][3].append([skill, int(lvl)])
 e.sort()
-print(d)
-print(e)
 final = []
 for i in e:
     flag = True
