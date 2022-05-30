@@ -8,6 +8,6 @@ Overall Rank: 2230
 
 Members: Atharv Patil,
          Apurva Patil,
-         Utkarsh Shukla,
-         Rohan Sharma,
+         Utkarsh Shukla and
+         Rohan Sharma
          
